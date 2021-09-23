@@ -1,17 +1,51 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import Card from './Card';
+import sdata from './sdata';
 import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <>
+    <h1 className="heading_style">TOP 5 NETFLIX SERIES</h1>
+    <div class="wrapper">
+                <div class="cards_wrap">
+    <Card 
+      imgsrc = {sdata[0].imgsrc}
+      title  = {sdata[0].title}
+      sname  = {sdata[0].sname}
+      link   = {sdata[0].link}
+    />
+
+    <Card 
+      imgsrc = {sdata[1].imgsrc}
+      title  = {sdata[1].title}
+      sname  = {sdata[1].sname}
+      link   = {sdata[1].link}
+    />
+
+    <Card 
+      imgsrc = {sdata[2].imgsrc}
+      title  = {sdata[2].title}
+      sname  = {sdata[2].sname}
+      link   = {sdata[2].link}
+    />
+
+    <Card 
+      imgsrc = {sdata[3].imgsrc}
+      title  = {sdata[3].title}
+      sname  = {sdata[3].sname}
+      link   = {sdata[3].link}
+    />
+
+    <Card 
+      imgsrc = {sdata[4].imgsrc}
+      title  = {sdata[4].title}
+      sname  = {sdata[4].sname}
+      link   = {sdata[4].link}
+    />
+
+    </div>
+    </div>
+  </>,
   document.getElementById('root')
 );
-
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
