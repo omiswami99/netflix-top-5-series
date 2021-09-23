@@ -1,4 +1,4 @@
-const sdata = [
+const seriesdata = [
     {
       imgsrc : "https://wallpapercave.com/wp/wp4056410.jpg",
       title : "NETFLIX ORIGINAL SERIES",
@@ -36,4 +36,4 @@ const sdata = [
 
 ]
 
-export default sdata;
+export default seriesdata;
