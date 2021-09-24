@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/netflix-top-5-series/static/css/main.f2faae86.chunk.css",
-    "main.js": "/netflix-top-5-series/static/js/main.4ea65a9a.chunk.js",
-    "main.js.map": "/netflix-top-5-series/static/js/main.4ea65a9a.chunk.js.map",
+    "main.js": "/netflix-top-5-series/static/js/main.662d41a2.chunk.js",
+    "main.js.map": "/netflix-top-5-series/static/js/main.662d41a2.chunk.js.map",
     "runtime-main.js": "/netflix-top-5-series/static/js/runtime-main.9a717c5a.js",
     "runtime-main.js.map": "/netflix-top-5-series/static/js/runtime-main.9a717c5a.js.map",
     "static/js/2.ac4234d5.chunk.js": "/netflix-top-5-series/static/js/2.ac4234d5.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.9a717c5a.js",
     "static/js/2.ac4234d5.chunk.js",
     "static/css/main.f2faae86.chunk.css",
-    "static/js/main.4ea65a9a.chunk.js"
+    "static/js/main.662d41a2.chunk.js"
   ]
 }
