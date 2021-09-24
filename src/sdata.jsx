@@ -33,6 +33,13 @@ const sdata = [
     sname : "SACRED GAMES",
     link : "https://www.netflix.com/in/title/80115328"
   },
+  
+  {
+    imgsrc : "https://wallpapercave.com/w/wp6042723.jpg",
+    title : "NETFLIX ORIGINAL SERIES",
+    sname : "KOTA FACTORY",
+    link : "https://www.netflix.com/in/title/81249783"
+  },
 
 ]
 
