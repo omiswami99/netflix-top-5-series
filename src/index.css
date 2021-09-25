@@ -92,6 +92,11 @@ button {background-color: #89bd8b;padding: 5px;border: 1px dashed black;}
   .cards_wrap .card_item {
     width: 33.3%;
   }
+
+  img{
+    width: 100%;
+    height: 100%;
+  }
 }
 
 @media (max-width: 768px) {
