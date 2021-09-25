@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/netflix-top-5-series/static/css/main.9fa2c765.chunk.css",
+    "main.css": "/netflix-top-5-series/static/css/main.4dcfc39c.chunk.css",
     "main.js": "/netflix-top-5-series/static/js/main.ed035e05.chunk.js",
     "main.js.map": "/netflix-top-5-series/static/js/main.ed035e05.chunk.js.map",
     "runtime-main.js": "/netflix-top-5-series/static/js/runtime-main.9a717c5a.js",
@@ -8,13 +8,13 @@
     "static/js/2.e6e7c42c.chunk.js": "/netflix-top-5-series/static/js/2.e6e7c42c.chunk.js",
     "static/js/2.e6e7c42c.chunk.js.map": "/netflix-top-5-series/static/js/2.e6e7c42c.chunk.js.map",
     "index.html": "/netflix-top-5-series/index.html",
-    "static/css/main.9fa2c765.chunk.css.map": "/netflix-top-5-series/static/css/main.9fa2c765.chunk.css.map",
+    "static/css/main.4dcfc39c.chunk.css.map": "/netflix-top-5-series/static/css/main.4dcfc39c.chunk.css.map",
     "static/js/2.e6e7c42c.chunk.js.LICENSE.txt": "/netflix-top-5-series/static/js/2.e6e7c42c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9a717c5a.js",
     "static/js/2.e6e7c42c.chunk.js",
-    "static/css/main.9fa2c765.chunk.css",
+    "static/css/main.4dcfc39c.chunk.css",
     "static/js/main.ed035e05.chunk.js"
   ]
 }
