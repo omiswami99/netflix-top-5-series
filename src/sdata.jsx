@@ -1,5 +1,6 @@
 const sdata = [
   {
+    id : 1,
     imgsrc : "https://wallpapercave.com/wp/wp4056410.jpg",
     title : "NETFLIX ORIGINAL SERIES",
     sname : "DARK",
@@ -7,6 +8,7 @@ const sdata = [
   },
   
   {
+    id : 2,
     imgsrc : "https://wallpapercave.com/w/wp8441228.jpg",
     title : "NETFLIX ORIGINAL SERIES",
     sname : "STRANGER THINGS",
@@ -14,6 +16,7 @@ const sdata = [
   },
   
   {
+    id : 3,
     imgsrc : "https://wallpapercave.com/w/wp4096785.jpg",
     title : "NETFLIX ORIGINAL SERIES",
     sname : "LOST IN SPACE",
@@ -21,6 +24,7 @@ const sdata = [
   },
 
   {
+    id : 4,
     imgsrc : "https://wallpapercave.com/w/wp8691216.jpg",
     title : "NETFLIX ORIGINAL SERIES",
     sname : "THE 100",
@@ -28,17 +32,11 @@ const sdata = [
   },
 
   {
+    id : 5,
     imgsrc : "https://wallpapercave.com/w/wp4025668.jpg",
     title : "NETFLIX ORIGINAL SERIES",
     sname : "SACRED GAMES",
     link : "https://www.netflix.com/in/title/80115328"
-  },
-  
-  {
-    imgsrc : "https://wallpapercave.com/w/wp6042723.jpg",
-    title : "NETFLIX ORIGINAL SERIES",
-    sname : "KOTA FACTORY",
-    link : "https://www.netflix.com/in/title/81249783"
   },
 
 ]

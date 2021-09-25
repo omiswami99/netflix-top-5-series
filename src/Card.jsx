@@ -3,19 +3,19 @@ import React from 'react';
 function Card(props) {
     return (
         <>
-            <div class="card_item">
-                <div class="card_inner">
-                    <div class="card_top">
+            <div className="card_item">
+                <div className="card_inner">
+                    <div className="card_top">
                         <img src={props.imgsrc} alt="car" />
                     </div>
-                    <div class="card_bottom">
-                        <div class="card_category">
+                    <div className="card_bottom">
+                        <div className="card_category">
                             {props.sname}
                         </div>
-                        <div class="card_info">
-                            <p class="title">{props.title}</p>
+                        <div className="card_info">
+                            <p className="title">{props.title}</p>
                         </div>
-                        <div class="card_creator">
+                        <div className="card_creator">
                             <a href={props.link} target="_blank"><button>WATCH NOW</button></a>
                         </div>
                     </div>
