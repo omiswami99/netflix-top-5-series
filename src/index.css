@@ -39,7 +39,6 @@ img {
 .cards_wrap {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around;
 }
 
 .cards_wrap .card_item {
@@ -91,11 +90,6 @@ button {background-color: #89bd8b;padding: 5px;border: 1px dashed black;}
 @media (max-width: 1024px) {
   .cards_wrap .card_item {
     width: 33.3%;
-  }
-
-  .cards_wrap {
-    display: flex;
-    flex-wrap: wrap;
   }
 
   img{
